@@ -1,7 +1,3 @@
-Com base na sua análise completa e conclusões, preparei um arquivo `README.md` que resume o projeto de forma profissional, destacando a metodologia e os resultados clínicos mais importantes.
-
------
-
 # 🤰 MVP Machine Learning: Classificação de Risco Gestacional
 
 ## 🎯 Objetivo do Projeto
